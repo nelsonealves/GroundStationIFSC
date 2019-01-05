@@ -1,0 +1,2 @@
+Instalando Imagem de SO no Linux (04/01) 
+https://www.raspberrypi.org/documentation/installation/installing-images/linux.md
